@@ -34,8 +34,11 @@
 
 
 
-##  Power Bi Dashboard
-
+##  Power Bi 
+### https://ibb.co/k6g2zN35
+### https://ibb.co/fVQqGxVq
+### https://ibb.co/wZD48rn0
+### https://ibb.co/ZRxSMrxF
 
 ---
 # Questions
