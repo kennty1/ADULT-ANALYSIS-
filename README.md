@@ -28,29 +28,29 @@
 ---
 
 ## Python
-from matplotlib.pyplot import xlabel, ylabel
++ from matplotlib.pyplot import xlabel, ylabel
 
 
-try:
++ try:
     with open('adult.csv', 'r', encoding='utf-8') as f:
         data = f.read()
         print(data)
-except FileNotFoundError:
+   + except FileNotFoundError:
     print("Error: adult.csv file not found in the current directory")
-except PermissionError:
++ except PermissionError:
     print("Error: Permission denied when trying to read adult.csv")
-except UnicodeDecodeError:
++ except UnicodeDecodeError:
     # Try with a different encoding if UTF-8 fails
-    try:
+  +  try:
         with open('adult.csv', 'r', encoding='latin-1') as f:
             data = f.read()
             print(data)
-    except Exception as e:
+   + except Exception as e:
         print(f"Error reading file with alternative encoding: {e}")
-except Exception as e:
++ except Exception as e:
     print(f"An error occurred: {e}")
 
-try:
++try:
     import pandas as pd
     import matplotlib.pyplot as plt
     # Read the CSV file
