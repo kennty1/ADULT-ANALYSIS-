@@ -50,10 +50,10 @@
 + except Exception as e:
     print(f"An error occurred: {e}")
 
-  try:
+   +try:
     import pandas as pd
     import matplotlib.pyplot as plt
-    # Read the CSV file
+    + Read the CSV file
     df = pd.read_csv('adult.csv')
     df['education'] = df['education'].astype('category')
     plt.figure(figsize=(15, 8))
