@@ -11,8 +11,8 @@
 + [Findings](#Findings)
 + [Recommendation](#Recommendation)
 ---
-Adult lives
-##Dataset Preview
+## Adult lives
+Dataset Preview
 The dataset contains demographic, educational, occupational, and financial information about adults in the United States. It is often used for income classification analysis, where the main goal is to determine whether an individual earns more than $50,000 per year based on their personal attributes.
 ## Dataset Description
 | age                   | workclass       | fnlwgt                                      | education                | education.num                         | marital.status               | occupation            | relationship                    | race       | sex    | capital.gain                    | capital.loss                    | hours.per.week                | native.country    | income                       |
