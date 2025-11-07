@@ -41,7 +41,19 @@ The dataset contains demographic, educational, occupational, and financial infor
 
 ---
 # Findings
++ To identify key demographic and socioeconomic factors that influence an individual’s income level (whether they earn more than $50K per year).
 
++ To analyze the relationship between variables such as education, age, occupation, marital status, and work hours on income distribution.
+
++ To compare income levels across genders, races, and countries, highlighting patterns of inequality or imbalance.
+
++ To evaluate the impact of education and work experience on earning potential and economic stability.
+
++ To explore employment trends — determining which work classes and occupations are associated with higher income levels.
+
++ To build a predictive model capable of classifying individuals into income categories (≤50K or >50K) based on their demographic and professional features.
+
++ To provide data-driven insights and recommendations for policymakers, businesses, or individuals aiming to improve income equity and workforce planning.
 
 # Recommendation
 
