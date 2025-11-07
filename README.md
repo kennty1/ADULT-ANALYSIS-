@@ -105,7 +105,7 @@ except Exception as e:
 ### https://ibb.co/ZRxSMrxF
 
 ---
-# Questions
+# Analtic Questions
 + What is the total Male Adult?
 + What is the total Female Adult?
 + What is the camparison between Income and Age?
