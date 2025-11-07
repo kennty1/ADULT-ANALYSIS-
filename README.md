@@ -55,6 +55,28 @@ The dataset contains demographic, educational, occupational, and financial infor
 
 + To provide data-driven insights and recommendations for policymakers, businesses, or individuals aiming to improve income equity and workforce planning.
 
+
+# Findings
++ Education plays a major role in income level — individuals with higher education (especially Bachelor’s degree and above) are more likely to earn above $50K annually.
+
++ Age and work experience positively correlate with income — older individuals, particularly those between 35–55 years, tend to have higher earnings.
+
++ Gender income disparity exists — males are more likely to earn > $50K compared to females, even when holding similar education or job levels.
+
++ Marital status influences income — married individuals, especially those in “Married-civ-spouse” status, have a higher probability of earning > $50K than single or divorced individuals.
+
++ Occupation type matters — high-income individuals are more concentrated in occupations like Exec-managerial, Prof-specialty, and Tech-support, while lower-income groups are common in Service and Labor roles.
+
++ Work hours per week impact earnings — people who work more than 40 hours per week tend to fall into the higher income category.
+
++ Capital gain/loss is a strong indicator of wealth — those with significant capital gains are much more likely to earn > $50K.
+
++ Racial imbalance is visible — the majority of higher-income earners are from the White racial group, indicating potential socioeconomic disparities.
+
++ Country of origin has minimal effect — most individuals in the dataset are from the United States, with minimal variation in income trends by country.
+
++ The dataset is slightly imbalanced — a larger percentage of individuals earn ≤ $50K, showing that high-income earners form a minority group.
+
 # Recommendation
 
 
