@@ -19,9 +19,7 @@ The dataset contains demographic, educational, occupational, and financial infor
 | --------------------- | --------------- | ------------------------------------------- | ------------------------ | ------------------------------------- | ---------------------------- | --------------------- | ------------------------------- | ---------- | ------ | ------------------------------- | ------------------------------- | ----------------------------- | ----------------- | ---------------------------- |
 | Age of the individual | Employment type | Census weight used for population estimates | Highest formal education | Numerical encoding of education level | Marital status of the person | Type of job performed | Family status or household role | Race group | Gender | Money earned from capital gains | Money lost through capital loss | Number of hours worked weekly | Country of origin | Income class (<=50K or >50K) |
 ---
----
-## Objectives
-+ To classify whether a tumor is benign or malignant based on cell nucleus features extracted from medical imaging.
+
 ---
 ## Tools Used
 + POWER BI
@@ -41,6 +39,12 @@ The dataset contains demographic, educational, occupational, and financial infor
 
 ---
 # Questions
++ What is the total Male Adult?
++ What is the total Female Adult?
++ What is the camparison between Income and Age?
++ What is the average of capital loss by education?
++ What is the average hours per week by income
++ What is the top 10 oldest adult in the dataset?
 
 # Objectives
 + To identify key demographic and socioeconomic factors that influence an individual’s income level (whether they earn more than $50K per year).
