@@ -28,6 +28,7 @@
 ---
 
 ## Python
++ https://ibb.co/NdCD3N5C
 + from matplotlib.pyplot import xlabel, ylabel
 
 
