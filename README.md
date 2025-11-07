@@ -40,7 +40,7 @@
 + except PermissionError:
     print("Error: Permission denied when trying to read adult.csv")
 + except UnicodeDecodeError:
-    # Try with a different encoding if UTF-8 fails
+    + Try with a different encoding if UTF-8 fails
   +  try:
         with open('adult.csv', 'r', encoding='latin-1') as f:
             data = f.read()
@@ -50,7 +50,7 @@
 + except Exception as e:
     print(f"An error occurred: {e}")
 
-+try:
+  try:
     import pandas as pd
     import matplotlib.pyplot as plt
     # Read the CSV file
