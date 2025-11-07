@@ -18,3 +18,30 @@ The dataset contains demographic, educational, occupational, and financial infor
 | age                   | workclass       | fnlwgt                                      | education                | education.num                         | marital.status               | occupation            | relationship                    | race       | sex    | capital.gain                    | capital.loss                    | hours.per.week                | native.country    | income                       |
 | --------------------- | --------------- | ------------------------------------------- | ------------------------ | ------------------------------------- | ---------------------------- | --------------------- | ------------------------------- | ---------- | ------ | ------------------------------- | ------------------------------- | ----------------------------- | ----------------- | ---------------------------- |
 | Age of the individual | Employment type | Census weight used for population estimates | Highest formal education | Numerical encoding of education level | Marital status of the person | Type of job performed | Family status or household role | Race group | Gender | Money earned from capital gains | Money lost through capital loss | Number of hours worked weekly | Country of origin | Income class (<=50K or >50K) |
+---
+---
+## Objectives
++ To classify whether a tumor is benign or malignant based on cell nucleus features extracted from medical imaging.
+---
+## Tools Used
++ POWER BI
++ SQL
+---
+# Analysis and Insight 
+## Python Code
+
+
+##  SQL Queries
+
+
+
+##  Power Bi Dashboard
+
+
+---
+# Findings
+
+
+# Recommendation
+
+
