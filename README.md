@@ -26,6 +26,7 @@ The dataset contains demographic, educational, occupational, and financial infor
 ## Tools Used
 + POWER BI
 + SQL
++ PYTHON
 ---
 # Analysis and Insight 
 ## Python Code
