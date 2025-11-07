@@ -1,4 +1,16 @@
 # ADULT-ANALYSIS-
++ [Project Overview](#Project-Overview)
++ [Dataset Description](#Dataset-Description)
++ [Analytic Questions](#Analytic-Questions)
++ [Objectives](#Objectives)
++ [Tools Used](#Tools-Used)
++ [Analysis and Insight](#Analysis-and-Insight)
++ [Dataset Preview](#Dataset-Preview)
++ [SQL Queries](#sql-queries)
++ [Power Bi Dashboard](#Power-Bi-Dashboard)
++ [Findings](#Findings)
++ [Recommendation](#Recommendation)
+---
 Adult lives
 
 | age                   | workclass       | fnlwgt                                      | education                | education.num                         | marital.status               | occupation            | relationship                    | race       | sex    | capital.gain                    | capital.loss                    | hours.per.week                | native.country    | income                       |
