@@ -4,8 +4,7 @@
 + [Analytic Questions](#Analytic-Questions)
 + [Objectives](#Objectives)
 + [Tools Used](#Tools-Used)
-+ [Analysis and Insight](#Analysis-and-Insight)
-+ [Dataset Preview](#Dataset-Preview)
++ [Python](#Python)
 + [SQL Queries](#sql-queries)
 + [Power Bi Dashboard](#Power-Bi-Dashboard)
 + [Findings](#Findings)
@@ -19,7 +18,28 @@
 | --------------------- | --------------- | ------------------------------------------- | ------------------------ | ------------------------------------- | ---------------------------- | --------------------- | ------------------------------- | ---------- | ------ | ------------------------------- | ------------------------------- | ----------------------------- | ----------------- | ---------------------------- |
 | Age of the individual | Employment type | Census weight used for population estimates | Highest formal education | Numerical encoding of education level | Marital status of the person | Type of job performed | Family status or household role | Race group | Gender | Money earned from capital gains | Money lost through capital loss | Number of hours worked weekly | Country of origin | Income class (<=50K or >50K) |
 ---
+# Analytic Questions
++ What is the total Male Adult?
++ What is the total Female Adult?
++ What is the camparison between Income and Age?
++ What is the average of capital loss by education?
++ What is the average hours per week by income
++ What is the top 10 oldest adult in the dataset?
 
+# Objectives
++ To identify key demographic and socioeconomic factors that influence an individual’s income level (whether they earn more than $50K per year).
+
++ To analyze the relationship between variables such as education, age, occupation, marital status, and work hours on income distribution.
+
++ To compare income levels across genders, races, and countries, highlighting patterns of inequality or imbalance.
+
++ To evaluate the impact of education and work experience on earning potential and economic stability.
+
++ To explore employment trends — determining which work classes and occupations are associated with higher income levels.
+
++ To build a predictive model capable of classifying individuals into income categories (≤50K or >50K) based on their demographic and professional features.
+
++ To provide data-driven insights and recommendations for policymakers, businesses, or individuals aiming to improve income equity and workforce planning.
 ---
 ## Tools Used
 + POWER BI
@@ -105,29 +125,6 @@ except Exception as e:
 ### https://ibb.co/ZRxSMrxF
 
 ---
-# Analtic Questions
-+ What is the total Male Adult?
-+ What is the total Female Adult?
-+ What is the camparison between Income and Age?
-+ What is the average of capital loss by education?
-+ What is the average hours per week by income
-+ What is the top 10 oldest adult in the dataset?
-
-# Objectives
-+ To identify key demographic and socioeconomic factors that influence an individual’s income level (whether they earn more than $50K per year).
-
-+ To analyze the relationship between variables such as education, age, occupation, marital status, and work hours on income distribution.
-
-+ To compare income levels across genders, races, and countries, highlighting patterns of inequality or imbalance.
-
-+ To evaluate the impact of education and work experience on earning potential and economic stability.
-
-+ To explore employment trends — determining which work classes and occupations are associated with higher income levels.
-
-+ To build a predictive model capable of classifying individuals into income categories (≤50K or >50K) based on their demographic and professional features.
-
-+ To provide data-driven insights and recommendations for policymakers, businesses, or individuals aiming to improve income equity and workforce planning.
-
 
 # Findings
 + Education plays a major role in income level — individuals with higher education (especially Bachelor’s degree and above) are more likely to earn above $50K annually.
