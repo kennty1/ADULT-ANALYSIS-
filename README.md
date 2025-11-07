@@ -31,7 +31,13 @@
 
 
 ##  SQL Queries
-
+### https://ibb.co/yBQzRDkQ
+### https://ibb.co/4nFJ7Ck3
+### https://ibb.co/j9Bcvsz2
+### https://ibb.co/tPnDQmX8
+### https://ibb.co/v6sggByr
+### https://ibb.co/chMNvRW5
+### https://ibb.co/rRyKyngs
 
 
 ##  Power Bi 
