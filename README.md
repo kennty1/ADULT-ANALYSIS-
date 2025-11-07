@@ -28,8 +28,8 @@ The dataset contains demographic, educational, occupational, and financial infor
 + SQL
 + PYTHON
 ---
-# Analysis and Insight 
-## Python Code
+
+## Python
 
 
 ##  SQL Queries
@@ -40,7 +40,9 @@ The dataset contains demographic, educational, occupational, and financial infor
 
 
 ---
-# Findings
+# Questions
+
+# Objectives
 + To identify key demographic and socioeconomic factors that influence an individual’s income level (whether they earn more than $50K per year).
 
 + To analyze the relationship between variables such as education, age, occupation, marital status, and work hours on income distribution.
@@ -78,5 +80,26 @@ The dataset contains demographic, educational, occupational, and financial infor
 + The dataset is slightly imbalanced — a larger percentage of individuals earn ≤ $50K, showing that high-income earners form a minority group.
 
 # Recommendation
++ Promote higher education and skill development
+
++ Since education strongly influences income, government and organizations should invest in accessible education, professional certifications, and technical training to help individuals move into higher-paying roles.
+
++ Encourage equal employment opportunities
+
++ The gender gap in income suggests the need for fair hiring practices, salary transparency, and gender equality programs in workplaces.
+
++ Support continuous career growth
+
++ Employers should provide career development plans, mentoring, and upskilling programs to help workers advance into managerial or technical positions that pay higher salaries.
+
++ Address work-life balance while maintaining productivity
+
++ Although longer working hours are linked to higher income, companies should ensure balanced workloads and introduce flexible work options to maintain employee well-being.
+
++ Empower marital and family support programs
+
++ Since marital stability shows a link with higher income, governments and communities can offer family financial planning and support programs to promote economic stability.
+
++ Focus on economic inclusion and diversity
 
 
